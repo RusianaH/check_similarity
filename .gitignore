@@ -1,2 +1,6 @@
 /vendor/
 .DS_Store
+/composer.json
+/composer.lock
+/detector.sql
+/preprocessing.php
